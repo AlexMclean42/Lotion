@@ -163,7 +163,6 @@ const handleDatetimeChange = (event) => {
 
   return (
     <>
-      
       <header className="mainheader">
         <div className="button_hamburger">
           <button className="hamburger" type="button" onClick={operation}>
